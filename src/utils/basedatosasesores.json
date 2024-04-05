@@ -1,0 +1,209 @@
+[
+
+    {
+        "nombre": "Maria Lopez",
+        "identificacion": "987654321",
+        "contraseña": "secreto123",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Bogotá",
+        "empresasVinculada": "Seguros de Vida",
+        "correo": "maria.lopez@gmail.com",
+        "ramos": [
+                
+                {"Vida": "3"},
+                {"Autos": "8"},
+                {"Salud": "12"},
+                {"Viaje": "4"},
+                {"Motos": "2"},
+                {"Arrendamiento": "8"}
+                        
+            
+        ]
+        
+    },
+
+    {
+        "nombre": "Juan Ramirez",
+        "identificacion": "456789012",
+        "contraseña": "claveSegura567",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Cali",
+        "empresasVinculada": "Seguros de Vida",
+        "correo": "juan.ramirez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "7"},
+                {"Autos": "11"},
+                {"Salud": "15"},
+                {"Viaje": "3"},
+                {"Motos": "8"},
+                {"Arrendamiento": "9"}
+                        
+            
+        ]
+    },
+
+    {
+        "nombre": "Laura Gomez",
+        "identificacion": "135792468",
+        "contraseña": "laura2023",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Cartagena",
+        "empresasVinculada": "Seguros de Vida",
+        "correo": "laura.gomez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "1"},
+                {"Autos": "6"},
+                {"Salud": "9"},
+                {"Viaje":"3"},
+                {"Motos":"7"},
+                {"Arrendamiento": "2"}
+               
+              
+          ]
+    },
+
+    {
+        "nombre": "Carlos Rodríguez",
+        "identificacion": "246801357",
+        "contraseña": "carlos123",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Barranquilla",
+        "empresasVinculada": "Seguros de Vida",
+        "correo": "carlos.rodriguez@gmail.com",
+        "ramos": [
+            
+            {"Vida": "4"},
+                {"Autos": "9"},
+                {"Salud": "11"},
+                {"Viaje": "4"},
+                {"Motos": "1"},
+                {"Arrendamiento":"4"}
+                 
+            
+           ]
+    },
+
+    {
+        "nombre": "Ana Martínez",
+        "identificacion": "369258147",
+        "contraseña": "ana456",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Medellin",
+        "empresasVinculada": "Seguros Generales",
+        "correo": "ana.martinez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "2"},
+                {"Autos": "7"},
+                {"Salud": "10"},
+                {"Viajes": "2"},
+                {"Motos": "1"},
+                {"Arrendamiento": "8"}
+              
+              
+          ]
+    },
+
+    {
+        "nombre": "Pedro Suarez",
+        "identificacion": "582469013",
+        "contraseña": "suarez789",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Medellin",
+        "empresasVinculada": "Seguros Generales",
+        "correo": "pedro.suarez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "6"},
+                {"Autos": "12"},
+                {"Salud": "15"},
+                {"Viaje": "2"},
+                {"Motos": "5"},
+                {"Arrendamiento": "0"}
+            
+        ]
+    },
+
+    {
+        "nombre": "Juliana Rojas",
+        "identificacion": "753951864",
+        "contraseña": "juliana2024",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Manizales",
+        "empresasVinculada": "Seguros Generales",
+        "correo": "juliana.rojas@gmail.com",
+        "ramos": [
+            
+                {"Vida": "3"},
+                {"Autos": "8"},
+                {"Salud": "11"},
+                {"Viaje": "7"},
+                {"Motos": "2"},
+                {"Arrendamiento": "4"}      
+              
+          ]
+    },
+
+    {
+        "nombre": "Diego Herrera",
+        "identificacion": "819273645",
+        "contraseña": "diego123",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Bogotá",
+        "empresasVinculada": "Seguros Generales",
+        "correo": "diego.herrera@gmail.com",
+        "ramos": [
+            
+                {"Vida": "6"},
+                {"Autos": "10"},
+                {"Salud": "13"},
+                {"Viaje": "3"},
+                {"Motos": "5"},
+                {"Arrendamiento": "1"}     
+              
+          ]
+    },
+
+    {
+        "nombre": "Carolina Gómez",
+        "identificacion": "725836194",
+        "contraseña": "caro456",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Bogotá",
+        "empresasVinculada": "EPS y Medicina Prepagada",
+        "correo": "carolina.gomez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "2"},
+                {"Autos": "7"},
+                {"Salud": "12"},
+                {"Viaje": "6"},
+                {"Motos": "3"},
+                {"Arrendamiento": "2"}      
+              
+            ]
+    },
+
+    {
+        "nombre": "Gabriel Martínez",
+        "identificacion": "638297415",
+        "contraseña": "gabo789",
+        "cargo": "Asesor de Seguros",
+        "oficina": "Bucaramanga",
+        "empresasVinculada": "EPS y Medicina Prepagada",
+        "correo": "gabriel.martinez@gmail.com",
+        "ramos": [
+            
+                {"Vida": "1"},
+                {"Autos": "5"},
+                {"Salud": "9"},
+                {"Viaje": "5"},
+                {"Motos": "8"},
+                {"Arrendamiento": "0"}      
+              
+          ]
+    }
+
+]

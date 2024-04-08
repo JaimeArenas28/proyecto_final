@@ -1,25 +1,26 @@
 [
 
     {
-        "nombre": "Maria Lopez",
+        "nombre": "Maria Stella Lopez",
         "identificacion": "987654321",
         "contraseña": "secreto123",
         "cargo": "Asesor de Seguros",
         "oficina": "Bogotá",
         "empresasVinculada": "Seguros de Vida",
         "correo": "maria.lopez@gmail.com",
-        "ramos": [
+        "ramos": [ 
                 
                 {"Vida": "3"},
                 {"Autos": "8"},
                 {"Salud": "12"},
                 {"Viaje": "4"},
                 {"Motos": "2"},
-                {"Arrendamiento": "8"}
-                        
+                {"Arrendamiento": "8"}                
             
-        ]
-        
+        ],
+        "ventastotales": 28000000,
+        "porcentajecumplimiento": 98
+
     },
 
     {

@@ -20,7 +20,7 @@ export function Formulario(){
 
                
         let buscar=basedatosasesores.find(function(asesor){
-            return(asesor.identificacion==verCedula)
+            return(asesor.identificacion==verCedula && asesor.contraseña==verContraseña)
         
         })
     
@@ -32,7 +32,7 @@ export function Formulario(){
                 text: "Usuario o contraseña incorrecta!",
                 
               });
-                      
+                  
 
             } else {
                 enrutador ("/home")
@@ -86,7 +86,7 @@ export function Formulario(){
                                 <input 
                                     type="password" 
                                     class="form-control" 
-                                    placeholder="contraseña"
+                                    placeholder="Contraseña"
                                     id="contraseña"
                                     onChange={function(evento){guardarContraseña(evento.target.value)}}
                                 />
